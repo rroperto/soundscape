@@ -3,7 +3,7 @@
 
 ## Background
 
-This project contains a **proof-of-concept JavaScript-library** for **audio-based user interface**to support the browser usage of 
+This project contains a **proof-of-concept JavaScript-library** for **audio-based user interface** to support the browser usage of 
 **users with low vision**.
 
 This project aims to **ease the usage** with the following approaches:
@@ -59,4 +59,14 @@ python3 demo_server.py
 4. Open the browser in http://localhost:5000
 
 5. Start the Soundscape with Ctrl+s
+
+Currently the demo uses static predefined audio files. However by hosting an API that can be used to generate dynamic audio files with input from authenticated user,
+Soundscape can also be used with dunamically generated content if the configured sound is either generated with the configured URL suffix or it is already existing before Soundscape fetches it.
+
+## Software
+
+Soundscape library found in 'sound_source_api/static/js/soundscape.js'
+
+'Developer' usage demo found in 'sound_source_api/static/js/demo.js' and 'sound_source_api/static/index.html'
+
 
