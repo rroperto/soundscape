@@ -46,6 +46,8 @@ document.getElementById();
 
 ## Demo Deployment
 
+**Make sure to use headphones**
+
 1. Navigate to 'sound_source_api'
 
 2. Install the contents of requirements.txt
