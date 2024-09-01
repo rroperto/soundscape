@@ -6,6 +6,10 @@
 This project contains a **proof-of-concept JavaScript-library** for **audio-based user interface** to support the browser usage of 
 **users with low vision**.
 
+The project intends to ease the following usage activities:
+    - User can navigate by using the mouse to select the 'highlighted' elements
+    - User is informed with the general contents of the page to make the page 'scanning' faster without the need to scroll through the elements sequentially with screen readers.
+
 This project aims to **ease the usage** with the following approaches:
     
     - DOM Elements that are included in the Soundscape have their own configured audio played in 3D audiospace by taking their position on the web page into account and giving their sound source origin direction according to their position on the web page.
