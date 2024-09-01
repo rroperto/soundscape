@@ -63,7 +63,7 @@ python3 demo_server.py
 5. Start the Soundscape with Ctrl+s
 
 Currently the demo uses static predefined audio files. However by hosting an API that can be used to generate dynamic audio files with input from authenticated user,
-Soundscape can also be used with dunamically generated content if the configured sound is either generated with the configured URL suffix or it is already existing before Soundscape fetches it.
+Soundscape can also be used with dynamically generated content if the configured sound is either generated with the configured URL suffix or it is already existing before Soundscape fetches it.
 
 ## Software
 
