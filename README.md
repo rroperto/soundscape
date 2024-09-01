@@ -7,7 +7,9 @@ This project contains a **proof-of-concept JavaScript-library** for **audio-base
 **users with low vision**.
 
 The project intends to ease the following usage activities:
+    
     - User can navigate by using the mouse to select the 'highlighted' elements
+    
     - User is informed with the general contents of the page to make the page 'scanning' faster without the need to scroll through the elements sequentially with screen readers.
 
 This project aims to **ease the usage** with the following approaches:
