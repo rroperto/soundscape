@@ -1,7 +1,8 @@
 # Soundscape
 
-
 ## Background
+
+More info can be found in: https://urn.fi/URN:NBN:fi:amk-2024112931205
 
 This project contains a **proof-of-concept JavaScript-library** for **audio-based user interface** to support the browser usage of 
 **users with low vision**.
